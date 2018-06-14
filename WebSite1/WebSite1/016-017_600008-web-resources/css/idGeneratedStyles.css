@@ -1,0 +1,314 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Basic-Graphics-Frame, img.Basic-Graphics-Frame {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+p.Basic-Paragraph {
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.ParaOverride-1 {
+	text-align:right;
+}
+p.ParaOverride-2 {
+	-epub-hyphens:none;
+}
+p.ParaOverride-3 {
+	-epub-hyphens:none;
+	text-align:right;
+}
+span.CharOverride-1 {
+	color:#ffffff;
+	font-family:"Myriad Pro Cond", sans-serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-2 {
+	color:#ffffff;
+	font-family:"Ostrich Sans Black", sans-serif;
+	font-size:20px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-3 {
+	font-family:"Myriad Pro Cond", sans-serif;
+	font-size:8px;
+	font-style:italic;
+	font-weight:bold;
+}
+span.CharOverride-4 {
+	font-family:"Andada Bold", sans-serif;
+	font-size:8px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-5 {
+	font-family:"Myriad Pro Cond", sans-serif;
+	font-size:8px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-6 {
+	font-family:"Myriad Pro Cond", sans-serif;
+	font-size:9px;
+	font-style:italic;
+	font-weight:bold;
+}
+span.CharOverride-7 {
+	font-family:"Myriad Pro Cond", sans-serif;
+	font-size:8px;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-8 {
+	color:#ffffff;
+	font-family:"Myriad Pro Cond", sans-serif;
+	font-size:19px;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-9 {
+	color:#96bfbf;
+	font-family:"Ostrich Sans Medium", sans-serif;
+	font-size:51px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-10 {
+	color:#ac493c;
+	font-family:"Myriad Pro Cond", sans-serif;
+	font-size:75px;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-11 {
+	color:#ffffff;
+	font-family:"Ostrich Sans Black", sans-serif;
+	font-size:24px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-12 {
+	color:#96bfbf;
+	font-family:"Ostrich Sans Black", sans-serif;
+	font-size:97px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-13 {
+	color:#ac493c;
+	font-family:"Ostrich Sans Black", sans-serif;
+	font-size:97px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-14 {
+	color:#ac493c;
+	font-family:"Myriad Pro Cond", sans-serif;
+	font-size:41px;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-15 {
+	color:#ffffff;
+	font-family:"Myriad Pro Cond", sans-serif;
+	font-size:8px;
+	font-style:italic;
+	font-weight:bold;
+}
+span.CharOverride-16 {
+	color:#f4dbb2;
+	font-family:"Ostrich Sans Black", sans-serif;
+	font-size:86px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-17 {
+	font-family:"Playfair Display", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-18 {
+	font-family:"Playfair Display Italic", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-19 {
+	font-family:"Playfair Display SC", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-20 {
+	color:#ffffff;
+	font-family:"Ostrich Sans Black", sans-serif;
+	font-size:25px;
+	font-style:normal;
+	font-weight:normal;
+}
+#_idPageContainer {
+	display:inline-block;
+	height: auto; /*if more info comes on the page, it will stretch down*/
+	width: 1000px;
+	margin: 0 auto; /*this will cause the div to be in the center*/
+}
+#_idContainer000 {
+	display:inline-block;
+	height:134px;
+	position:relative;
+	width:1477px;
+}
+#_idContainer001, #_idContainer003 {
+	display:inline-block;
+	height:126px;
+	width:271px;
+}
+#_idContainer002 {
+	display:inline-block;
+	height:162px;
+	width:271px;
+}
+#_idContainer004 {
+	display:inline-block;
+	height:27px;
+	position:relative;
+	width:580px;
+}
+#_idContainer005, #_idContainer048 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:42px;
+}
+#_idContainer006 {
+	display:inline-block;
+	height:97px;
+	position:relative;
+	width:38px;
+}
+#_idContainer016 {
+	display:inline-block;
+	height:519px;
+	width:483px;
+}
+
+#_idContainer021 {
+	display:inline-block;
+	height:519px;
+	width:483px;
+}
+
+#_idContainer016 {
+	display:inline-block;
+	height:519px;
+	width:483px;
+}
+#_idContainer033 {
+	display:inline-block;
+	height:204px;
+	width:678px;
+}
+#_idContainer034 {
+	display:inline-block;
+	height:271px;
+	width:330px;
+}
+#_idContainer035, #_idContainer039, #_idContainer043 {
+	display:inline-block;
+	height:156px;
+	width:194px;
+}
+#_idContainer041 {
+	display:inline-block;
+	height:271px;
+	width:358px;
+}
+#_idContainer047 {
+	-ms-transform:translate(0.000px,0.000px) rotate(180.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:50% 50%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(180.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:50% 50%;
+	display:inline-block;
+	height:110px;
+	position:relative;
+	transform:translate(0.000px,0.000px) rotate(180.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(180.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:50% 50%;
+	transform-origin:50% 50%;
+	width:38px;
+}
+#_idContainer048 {
+	display:inline-block;
+	height:134px;
+	position:relative;
+	width:1477px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+img._idGenObjectAttribute-2 {
+	height:7px;
+	width:7px;
+}
+img._idGenObjectAttribute-3 {
+	height:9px;
+	width:7px;
+}
+div._idGenObjectStyleOverride-1 {
+	background-color:#f4dbb2;
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-2 {
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-3 {
+	background-color:#ac493c;
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-4 {
+	background-color:#ffffff;
+	border-color:#ffffff;
+	border-width:2px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
